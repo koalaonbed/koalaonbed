@@ -4,10 +4,10 @@
 
 - An M.S. candidate in Information Science at the University of Illinois Urbana-Champaign(UIUC), specializing in security, data, and HCI.
 - Conference paper:
-  Scanning or Simply Unengaged in Reading? Opportune Moments for Pushed News Notifications and Their Relationship with Smartphone Users' Choice of News-reading Modes
-  Occurrence and Triggers of Mobile News Exposure: A Screenshot-Based ESM Study
-  Screenshot Journey Auditor: A Tool to Support Analysis of Smartphone Media Consumption Journey Using Screenshot Data
-  I’m Interested, but Can/Would Only Skim It: Studying Smartphone Users’ Receptivity to News Notifications
+  - Scanning or Simply Unengaged in Reading? Opportune Moments for Pushed News Notifications and Their Relationship with Smartphone Users' Choice of News-reading Modes
+  - Occurrence and Triggers of Mobile News Exposure: A Screenshot-Based ESM Study
+  - Screenshot Journey Auditor: A Tool to Support Analysis of Smartphone Media Consumption Journey Using Screenshot Data
+  - I’m Interested, but Can/Would Only Skim It: Studying Smartphone Users’ Receptivity to News Notifications
 - E-mail: chenchinlin3@gmail.com
 
 
