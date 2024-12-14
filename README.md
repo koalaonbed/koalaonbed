@@ -1,6 +1,7 @@
 ## Hi there
 
 <h1>Spencer Lin</h1>
+
 - An M.S. candidate in Information Science at the University of Illinois Urbana-Champaign, specializing in security, data, and HCI.
 - Conference paper:  
 - E-mail: chenchinlin3@gmail.com
