@@ -1,6 +1,5 @@
 ## Hi there
 
-<h1>Spencer Lin</h1>
 
 - 👋 Hi, I'm Spencer Lin, just received my master degree in Information Science at the University of Illinois Urbana-Champaign (UIUC)
 - Specializing in security, software, and data
