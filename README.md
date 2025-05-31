@@ -3,6 +3,8 @@
 
 - 👋 Hi, I'm Spencer Lin, just received my master degree in Information Science at the University of Illinois Urbana-Champaign (UIUC)
 - Specializing in SECURITY, SOFTWARE, and DATA
+- 👀 I’m looking for a full-time job after graduation in May 2025, as well as internships.
+- I'm looking to collaborate with you!
 
 
 
