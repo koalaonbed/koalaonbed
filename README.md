@@ -6,6 +6,8 @@
 - 👀 I’m looking for a full-time job after graduation in May 2025, as well as internships.
 - I'm looking to collaborate with you!
 
+- Languages: Python, C++, SQＬ
+
 
 
 ### HCI
