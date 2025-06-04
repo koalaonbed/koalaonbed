@@ -5,8 +5,16 @@
 - Specializing in SECURITY, SOFTWARE, and DATA
 - 👀 I’m looking for a full-time job after graduation in May 2025, as well as internships.
 - I'm looking to collaborate with you!
+- I have a strong interest in:
+- CyberSecurity: Interpreting complex data to extract actionable insights.
+- Software 
+Machine Learning: Building predictive models that can learn from and make decisions based on data.
+Data Visualization: Presenting data in a visual context to make the analysis more accessible and understandable. Technical Skills
 
-- Languages: Python, C++, SQＬ
+- Languages: Python, C++, SQＬ, Java, and R
+- Frameworks & Tools: Git, Docker, REST API, Linux, Kubernetes, Bash scripting, ETL, AWS, Azure, Firebase, and GCP
+- Security: Incident Response, SIEM, Penetration Testing, Metasploit, Wireshark, Nmap, and Nessus
+- Data: Tableau, Power BI, SPSS, Web Intelligence, Spark, Hadoop, and Splunk
 
 
 
