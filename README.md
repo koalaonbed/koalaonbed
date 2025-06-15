@@ -7,7 +7,7 @@
 - I'm looking to collaborate with you!
 
 
-- Languages: Python, C++, SQＬ, Java, and R
+- Languages: Python, C++, SQＬ, Java, Go, and R
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" />
