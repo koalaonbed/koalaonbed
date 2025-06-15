@@ -8,8 +8,10 @@
 
 
 - Languages: Python, C++, SQＬ, Java, and R
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
           
 - Frameworks & Tools: Git, Docker, REST API, Linux, Kubernetes, Bash scripting, ETL, AWS, Azure, Firebase, and GCP
 - Security: Incident Response, SIEM, Penetration Testing, Metasploit, Wireshark, Nmap, and Nessus
