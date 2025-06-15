@@ -9,8 +9,8 @@
 
 - Languages: Python, C++, SQＬ, Java, and R
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" />
 </div>
           
 - Frameworks & Tools: Git, Docker, REST API, Linux, Kubernetes, Bash scripting, ETL, AWS, Azure, Firebase, and GCP
